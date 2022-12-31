@@ -1,0 +1,30 @@
+{
+  "name": "@kryp70n/fetaskrunner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "task runner",
+    "front end",
+    "gulp project boiler-plate"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.20.7",
+    "@babel/preset-env": "^7.20.2",
+    "dotenv": "^16.0.3",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-if": "^3.0.0",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.57.1"
+  }
+}
